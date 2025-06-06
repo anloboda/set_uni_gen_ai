@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Chelsea",
+    "photoUrl": "https://randomuser.me/api/portraits/women/65.jpg",
+    "status": "Professional Teacher",
+    "speaks": ["English", "Spanish", "French"],
+    "nativeLanguage": "English",
+    "rating": 5.0,
+    "lessons": 319,
+    "description": "Professional Teacher | 5+ Years Experience in Private Schools, Universities & Online. I am extremely patient and kind as a teacher. Because I have studied many languages myself, I understand the challenges.",
+    "pricePerHour": 17.55
+  },
+  {
+    "id": 2,
+    "name": "Yuki",
+    "photoUrl": "https://randomuser.me/api/portraits/women/50.jpg",
+    "status": "Language Coach",
+    "speaks": ["Japanese", "English"],
+    "nativeLanguage": "Japanese",
+    "rating": 4.8,
+    "lessons": 211,
+    "description": "Native Japanese speaker with 3+ years of experience helping students speak naturally and confidently. I love using anime and pop culture to keep lessons fun and relevant!",
+    "pricePerHour": 20.0
+  },
+  {
+    "id": 3,
+    "name": "Carlos",
+    "photoUrl": "https://randomuser.me/api/portraits/men/31.jpg",
+    "status": "University Lecturer",
+    "speaks": ["Spanish", "English", "Italian"],
+    "nativeLanguage": "Spanish",
+    "rating": 4.9,
+    "lessons": 540,
+    "description": "PhD in Linguistics and university lecturer. I specialize in academic Spanish and professional communication. Serious but friendly approach to help you master grammar and fluency.",
+    "pricePerHour": 25.0
+  },
+  {
+    "id": 4,
+    "name": "Fatima",
+    "photoUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+    "status": "Certified Online Tutor",
+    "speaks": ["Arabic", "French", "English"],
+    "nativeLanguage": "Arabic",
+    "rating": 4.7,
+    "lessons": 187,
+    "description": "I'm a certified Arabic tutor who loves helping beginners fall in love with the language. I use interactive tools and games to make learning fun and engaging!",
+    "pricePerHour": 14.5
+  },
+  {
+    "id": 5,
+    "name": "Igor",
+    "photoUrl": "https://randomuser.me/api/portraits/men/80.jpg",
+    "status": "Business English Coach",
+    "speaks": ["English", "Russian", "German"],
+    "nativeLanguage": "Russian",
+    "rating": 4.6,
+    "lessons": 432,
+    "description": "Helping professionals improve Business English skills with real-world materials, mock interviews, and presentations. Tailored lessons for tech, finance, and management.",
+    "pricePerHour": 22.0
+  },
+  {
+    "id": 6,
+    "name": "Sofia",
+    "photoUrl": "https://randomuser.me/api/portraits/women/29.jpg",
+    "status": "Conversational Partner",
+    "speaks": ["Portuguese", "English"],
+    "nativeLanguage": "Portuguese",
+    "rating": 4.5,
+    "lessons": 95,
+    "description": "Olá! I'm here to help you get comfortable speaking Brazilian Portuguese in real-life situations. Let's chat about anything — music, travel, food, or your hobbies!",
+    "pricePerHour": 12.75
+  },
+  {
+    "id": 7,
+    "name": "Ahmed",
+    "photoUrl": "https://randomuser.me/api/portraits/men/21.jpg",
+    "status": "IELTS Specialist",
+    "speaks": ["English", "Urdu", "Hindi"],
+    "nativeLanguage": "Urdu",
+    "rating": 5.0,
+    "lessons": 378,
+    "description": "British Council-certified IELTS instructor with a 98% success rate. I provide structured preparation plans with detailed feedback on writing and speaking.",
+    "pricePerHour": 19.99
+  },
+  {
+    "id": 8,
+    "name": "Mia",
+    "photoUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+    "status": "Children's Tutor",
+    "speaks": ["English", "Dutch", "German"],
+    "nativeLanguage": "Dutch",
+    "rating": 4.9,
+    "lessons": 260,
+    "description": "Specialized in teaching young learners through storytelling, songs, and playful learning. Parents receive regular updates and progress reports.",
+    "pricePerHour": 16.0
+  },
+  {
+    "id": 9,
+    "name": "Jean",
+    "photoUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+    "status": "French Grammar Expert",
+    "speaks": ["French", "English"],
+    "nativeLanguage": "French",
+    "rating": 4.8,
+    "lessons": 312,
+    "description": "Bonjour! I focus on helping intermediate learners tackle tricky grammar and improve their writing. Clear explanations, lots of practice, and no pressure.",
+    "pricePerHour": 18.5
+  },
+  {
+    "id": 10,
+    "name": "Linh",
+    "photoUrl": "https://randomuser.me/api/portraits/women/47.jpg",
+    "status": "Speaking Confidence Coach",
+    "speaks": ["Vietnamese", "English", "Mandarin"],
+    "nativeLanguage": "Vietnamese",
+    "rating": 4.6,
+    "lessons": 143,
+    "description": "Build your confidence to speak fluently and fearlessly! My sessions focus on daily conversation and pronunciation correction through guided talk.",
+    "pricePerHour": 13.25
+  }
+]

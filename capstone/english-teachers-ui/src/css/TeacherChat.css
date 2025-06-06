@@ -1,0 +1,109 @@
+.chat-container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.chat-window {
+    height: 450px;
+    overflow-y: auto;
+    background: #f9f9f9;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+
+.message {
+    margin-bottom: 12px;
+    display: flex;
+}
+
+.message.user {
+    justify-content: flex-end;
+}
+
+.message.assistant {
+    justify-content: flex-start;
+}
+
+.bubble {
+    max-width: 75%;
+    padding: 12px 16px;
+    border-radius: 18px;
+    background-color: #e0e0e0;
+    white-space: pre-wrap;
+}
+
+.message.user .bubble {
+    background-color: #d1eaff;
+}
+
+.typing {
+    font-style: italic;
+    color: #999;
+    padding-left: 4px;
+}
+
+.input-container {
+    display: flex;
+    gap: 8px;
+}
+
+textarea {
+    flex-grow: 1;
+    resize: none;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+button:disabled {
+    background-color: #8cb8e3;
+    cursor: not-allowed;
+}
+
+/* Teacher cards */
+.teacher-list {
+    margin-top: 12px;
+}
+
+.teacher-card {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 12px;
+    margin-top: 8px;
+}
+
+.teacher-card a {
+    display: inline-block;
+    margin-top: 6px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.teacher-card a:hover {
+    text-decoration: underline;
+}
+
+.explanation {
+    font-style: italic;
+    margin-bottom: 8px;
+}
+
+.error {
+    color: darkred;
+}
